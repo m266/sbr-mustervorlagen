@@ -26,3 +26,5 @@ Shortcode zur Datenschutzerklärung:
 [show_file file="https://raw.githubusercontent.com/m266/sbr-mustervorlagen/master/sbr-datenschutz.html"]
 
 Shortcode für die SBR-Gremien:
+
+[show_file file="https://raw.githubusercontent.com/m266/sbr-mustervorlagen/master/sbr-gremien.html"]
