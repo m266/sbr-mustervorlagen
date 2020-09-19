@@ -20,3 +20,9 @@ Danach wird der folgende Shortcode in die Seite, dem Beitrag oder einem Widget h
 [show_file file="URL"]
 
 Der Wert "URL" wird durch die Adresse der jeweiligen Vorlage ersetzt.
+
+Shortcode zur Datenschutzerklärung:
+
+[show_file file="https://raw.githubusercontent.com/m266/sbr-mustervorlagen/master/sbr-datenschutz.html"]
+
+Shortcode für die SBR-Gremien:
