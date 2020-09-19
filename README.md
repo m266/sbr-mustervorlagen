@@ -17,4 +17,5 @@ Quelle: https://pixeltuner.de/wordpress-externe-dateien-per-shortcode-integriere
 Danach wird der folgende Shortcode in die Seite, dem Beitrag oder einem Widget hinzugefügt:
 
 [show_file file="URL"]
+
 Der Wert "URL" wird durch die Adresse der jeweiligen Vorlage ersetzt.
