@@ -7,6 +7,7 @@ function show_file_func( $atts ) {
   extract( shortcode_atts( array(
     'file' => ''
   ), $atts ) );
+  
   if ($file!='')
   return @file_get_contents($file);
 }
