@@ -15,8 +15,7 @@ add_shortcode( 'show_file', 'show_file_func' );
 
 Quelle: https://pixeltuner.de/wordpress-externe-dateien-per-shortcode-integrieren/
 
-
-Danach wird der Shortcode in die Seite, dem Beitrag oder einem Widget hinzugefügt:
+Danach wird der folgende Shortcode in die Seite, dem Beitrag oder einem Widget hinzugefügt:
 
 [show_file file="URL"]
 
